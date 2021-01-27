@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<div align="center">
-
-<a href="https://github.com/hackers267/github-stats">
-  
-![](https://raw.githubusercontent.com/hackers267/github-stats/master/generated/overview.svg)
-![](https://github.com/hackers267/github-stats/blob/master/generated/languages.svg)
-
-</a>
-
-</div>
-
 <!--
 **hackers267/hackers267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
